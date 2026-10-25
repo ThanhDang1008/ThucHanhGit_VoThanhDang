@@ -1,0 +1,3 @@
+[submodule "libs/sub-repo"]
+	path = libs/sub-repo
+	url = https://github.com/ThanhDang1008/ThucHanhGit_VoThanhDang.git
